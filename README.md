@@ -1,9 +1,9 @@
 ## Cloud-software-HW-2
 ### TOOD:
 #### REPO
-- [ ] contruct a GitHub repo
-- [ ] have a modified README.md
-- [ ] have two branch: hw1-p, hw1-f
+- [X] contruct a GitHub repo
+- [X] have a modified README.md
+- [X] have two branch: hw1-p, hw1-f
 #### Issue
 - [ ] construct an issue
 - [ ] have issue template
