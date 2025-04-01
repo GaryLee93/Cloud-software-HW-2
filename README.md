@@ -1,1 +1,18 @@
-# Cloud-software-HW-2
+## Cloud-software-HW-2
+### TOOD:
+#### REPO
+- [ ] contruct a GitHub repo
+- [ ] have a modified README.md
+- [ ] have two branch: hw1-p, hw1-f
+#### Issue
+- [ ] construct an issue
+- [ ] have issue template
+#### Pull Request
+- [ ] contruct pull request for main branch by hw1-p
+- [ ] contruct pull request for main branch by hw1-f
+- [ ] have at least one opinion in abore PR
+#### GitHub Action
+- [ ] Action have run in this repo(check by click GitHub Action)
+- [ ] Except default steps, Action has at least two steps.
+- [ ] GitHub fail to run in PR of hw1-p
+- [ ] GitHub ran successfully in PR of hw1-f
