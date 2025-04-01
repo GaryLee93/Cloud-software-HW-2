@@ -5,12 +5,12 @@
 - [X] have a modified README.md
 - [X] have two branch: hw1-p, hw1-f
 #### Issue
-- [ ] construct an issue
-- [ ] have issue template
+- [X] construct an issue
+- [X] have issue template
 #### Pull Request
 - [ ] contruct pull request for main branch by hw1-p
 - [ ] contruct pull request for main branch by hw1-f
-- [ ] have at least one opinion in abore PR
+- [ ] have at least one opinion in above PR
 #### GitHub Action
 - [ ] Action have run in this repo(check by click GitHub Action)
 - [ ] Except default steps, Action has at least two steps.
