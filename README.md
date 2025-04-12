@@ -12,7 +12,7 @@
 - [X] contruct pull request for main branch by hw1-f
 - [X] have at least one opinion in above PR
 #### GitHub Action
-- [ ] Action have run in this repo(check by click GitHub Action)
-- [ ] Except default steps, Action has at least two steps.
-- [ ] GitHub fail to run in PR of hw1-p
-- [ ] GitHub ran successfully in PR of hw1-f
+- [X] Action have run in this repo(check by click GitHub Action)
+- [X] Except default steps, Action has at least two steps.
+- [X] GitHub fail to run in PR of hw1-p
+- [X] GitHub ran successfully in PR of hw1-f
